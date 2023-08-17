@@ -1,3 +1,4 @@
+
 # Resturant-Template
 # --Overview--
 <p>This is a Beautiful, attractive and user intractive Template created using these [Tech Stacks]() <br /> As it is build using map method so it is very easy to modify for future as well as All styling is also  custom SASS and well organised which makes easy to maintain and make changes.. <br /> You can Definetely purchase it in cheaper price and buy all the copyrights to you only! Check below for more Details!</p>
@@ -15,6 +16,7 @@ https://github.com/HobbiestCodes/Resturant-Template/assets/79841865/e5ef9e81-5a4
 ## Is This template Responsive? YES!!!  
 ## Mobile View
 
+https://github.com/HobbiestCodes/Resturant-Template/assets/79841865/0bcf761b-2d96-4b94-85f7-ef83b55c8876
 
 # Features: 
 <ul>
