@@ -48,7 +48,7 @@ https://github.com/HobbiestCodes/Resturant-Template/assets/79841865/0bcf761b-2d9
 ~ [Telegram]() | [Instagram]() | [Discord]() | [Linkedin]() | [Gmail]() | [YouTube]() | [Buy Me a Coffee]() ~
 
 # Price Of this template: <br />
-### INDIAN: Rs. 4000/- <br />
-### USA: $50 (Dollar)
+### INDIAN: Rs. 2500/- <br />
+### USA: $30 (Dollar)
 
 # ~Thanks 💖
