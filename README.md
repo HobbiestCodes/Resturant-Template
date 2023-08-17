@@ -1,6 +1,8 @@
 # Resturant-Template
-This Restaurant Website is for selling..... I've created using Scss, NextJs
 # --Overview--
+<p>This is a Beautiful, attractive and user intractive Template created using these [Tech Stacks]() <br /> As it is build using map method so it is very easy to modify for future as well as All styling is also  custom SASS and well organised which makes easy to maintain and make changes.. <br /> You can Definetely purchase it in cheaper price and buy all the copyrights to you only! Check below for more Details!</p>
+
+# Below is how's its home page looks like: 
 ![Screenshot 2023-08-15 173742](https://github.com/HobbiestCodes/Resturant-Template/assets/79841865/249f4a06-36b9-40f9-8908-2c77862dabfa)
 
 <p>The Whole Website Contain Animated Stuff on scroll and most of the elements are Animated!</p>
